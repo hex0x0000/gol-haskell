@@ -1,4 +1,4 @@
-[This repo has been archived](https://git.bounceme.net/hex0x0000/gol-haskell)
+[This repo has been migrated](https://git.bounceme.net/hex0x0000/gol-haskell)
 # Conway's Game of Life in Haskell
 Just a simple implementation of Conway's Game of Life written in Haskell
 
